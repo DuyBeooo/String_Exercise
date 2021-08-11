@@ -50,6 +50,10 @@ public class Main {
         System.out.println(s);
         System.out.println(u);
         reverse(a);
+	// hello Duyyyyyyy
+	// hahahah
+	wqewqeq;
+	jghjghjg;
 
     }
 
